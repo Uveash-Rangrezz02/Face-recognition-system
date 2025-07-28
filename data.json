@@ -1,0 +1,26 @@
+{
+    "Jawad.jpg": {
+        "Name": "Md Jawadul Haque",
+        "Roll": "2320694",
+        "Address": "Bihar",
+        "Age": 22
+    },
+    "Anurag.jpg": {
+        "Name": "Anurag Kumar",
+        "Roll": "2320692",
+        "Address": "Delhi",
+        "Age": 23
+    },
+    "Abu.jpg": {
+        "Name": "Abu Lubaba",
+        "Roll": "2320691",
+        "Address": "Bihar",
+        "Age": 24
+    },
+    "Uveash.jpg": {
+        "Name": "Uveash",
+        "Roll": "2221616",
+        "Address": "Delhi",
+        "Age": 21
+    }
+}
