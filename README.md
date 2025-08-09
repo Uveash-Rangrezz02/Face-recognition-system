@@ -16,12 +16,12 @@ The system stores known faces' encodings in a `data.json` file and can identify 
 ---
 
 ## 📂 Project Structure
-Face-Recognition-System/
-│── data.json # Stores known persons' face encodings & names
-│── main.py # Main program for real-time recognition
-│── encode_faces.py # Script to add new faces to the database
-│── requirements.txt # Required Python libraries
-│── README.md # Project documentation
+Face-Recognition-System/<br>
+│── data.json # Stores known persons' face encodings & names<br>
+│── main.py # Main program for real-time recognition<br>
+│── encode_faces.py # Script to add new faces to the database<br>
+│── requirements.txt # Required Python libraries<br>
+│── README.md # Project documentation<br>
 
 
 
@@ -105,6 +105,7 @@ For major changes, open an issue first to discuss what you’d like to change.
 💡 Author
 Uveash Reangrezz
 📧 Email: rangrezzuveash02@gmail.com
+
 🌐 GitHub: uveash-rangrezz02
 
 
